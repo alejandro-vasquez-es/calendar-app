@@ -18,7 +18,7 @@ export const Navbar = () => {
 			>
 				<i className='fas fa-sign-out-alt'></i>
 				&nbsp;
-				<span>Salir</span>
+				<span>Sign out</span>
 			</button>
 		</div>
 	)
